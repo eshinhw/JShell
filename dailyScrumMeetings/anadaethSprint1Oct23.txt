@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Implementation and structure of the CRC Cards 
+    - Brainstormed ideas with my group for the necessary parent classes
+    
+What do I plan to work in the next three days?
+    - Understanding the structure more so it will be easy to code using inheritance and polymorphism
+    - Look at how to begin coding the view history command
+
+Am I blocked on anything?
+    - Checking if there are any invalid commands for looking at previous history
+   

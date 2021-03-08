@@ -1,0 +1,29 @@
+Class Name: Command (Interface)
+
+Subclasses: 
+* Actual commands implement Command Interface and complete bodies of run method. Such commands are below.
+	- exit
+	- cd
+	- mkdir
+	- ls
+	- pwd
+	- echo
+	- cat
+	- history
+	- popd
+	- pushd
+	- man
+	- mv
+	- cp
+	- saveJShell
+	- loadJShell
+	- rm
+	- search
+	- tree
+	- curl
+
+Responsibilities:
+* Provides a run method signature which must be implemented by classes which implement Command Interface.
+
+Collaborators:
+* None

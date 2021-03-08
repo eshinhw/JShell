@@ -1,0 +1,4 @@
+Class Name: CommandException
+
+Responsibilities:
+* Inherits Java Exception class to handle all possible error handling cases from command classes while running JShell

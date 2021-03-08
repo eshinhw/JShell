@@ -1,0 +1,14 @@
+Class Name: Tree
+Parent Class: Command (Interface)
+
+Responsibilities: 
+* Displays the entire file system as a tree.
+* Output can be redirected to OUTFILE instead of printing on the JShell screen.
+
+Collaborators:
+* File
+* Directory
+* JFileManager
+* JShell
+
+

@@ -1,0 +1,10 @@
+Class Name: Mkdir
+Parent Class: Command (Interface)
+
+Responsibilities:
+* Makes directories in current directory or at the path provided by a user
+
+Collaborators:
+* JShell
+* JFileManager
+* Validator

@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Finshing my parts of the MockJshell
+    - JUnit command tests for multiple commands
+  
+
+What do I plan to work in the next three days?
+    - Finishing the JUnit tests for the all of the commands
+    - Even more testing
+    - Documentation and javadocs
+	
+Am I blocked on anything?
+    - Trouble shooting errors that are occuring in the specific unit tests
+    like pushd and ls

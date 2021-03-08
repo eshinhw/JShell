@@ -1,0 +1,9 @@
+Class Name: Directory
+
+Responsibilities:
+* Contains basic attributes of a directory object like name and path information
+* Stores information about files and sub-directories contained inside an directory object
+* Provides basic methods to retrieve information contained inside an directory object
+
+Collaborators:
+* None

@@ -1,0 +1,12 @@
+Class Name: Ls
+Parent Class: Command (Interface)
+
+Responsibilities:
+* Prints names of files and directories in current directory or inside the path given by user
+* With -R option, prints names of files and directories in all sub-directories.
+* Output can be redirected to OUTFILE instead of printing on the JShell screen.
+
+Collaborators:
+* Directory
+* File
+* JShell

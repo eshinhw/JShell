@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Splitting work amongst members
+    - Understanding new requirements
+  
+
+What do I plan to work in the next three days?
+    - Creating MockShell
+    - JUnit tests for each command
+	
+Am I blocked on anything?
+    - Nothing on the moment   

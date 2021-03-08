@@ -1,0 +1,13 @@
+Class Name: Mv
+Parent Class: Command (Interface)
+
+Responsibilities: 
+* Moves an item from OLDPATH to NEWPATH.
+
+Collaborators:
+* File
+* Directory
+* JFileManager
+* JShell
+
+

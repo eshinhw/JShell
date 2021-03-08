@@ -1,0 +1,10 @@
+Class Name: Man
+Parent Class: Command (Interface)
+
+Responsibilities: 
+* Prints documentation details for one or more commands provided by an user.
+* Output can be redirected to OUTFILE instead of printing on the JShell screen.
+
+Collaborators:
+* JShell
+

@@ -1,0 +1,13 @@
+Class Name: Echo
+Parent Class: Command (Interface)
+
+Responsibilities: 
+* Appends or overwites a string of user input to a file specified by a user.
+* Prints the input string on the shell if the file information is not provided.
+* Output can be redirected to OUTFILE instead of printing on the JShell screen.
+
+Collaborators: 
+* Directory
+* File
+* JFileManager
+* JShell

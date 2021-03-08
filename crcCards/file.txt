@@ -1,0 +1,10 @@
+Class Name: File
+Parent Class: Command (Interface)
+
+Responsibilities: 
+* Stores basic information about a file object like name, path and contents of a file.
+* Provides basic methods such as getters and setters of file information.
+
+Collaborators:
+* Directory
+

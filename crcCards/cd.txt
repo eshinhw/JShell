@@ -1,0 +1,9 @@
+Class Name: Cd
+Parent Class: Command (Interface)
+
+Responsibilities:
+* Changes current working directory to the new path provided by a user
+
+Collaborators:
+* JFileManager
+* JShell

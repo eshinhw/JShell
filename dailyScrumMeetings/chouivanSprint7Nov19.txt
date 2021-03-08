@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+	-Split the teamwork for the new assigment
+    
+What do I plan to work in the next three days?
+	- get start working on mkdir,ls and cd
+
+
+Am I blocked on anything?
+    -none   

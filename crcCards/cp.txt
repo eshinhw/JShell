@@ -1,0 +1,13 @@
+Class Name: Cp
+Parent Class: Command (Interface)
+
+Responsibilities: 
+* Copies the content in OLDPATH to NEWPATH.
+
+Collaborators:
+* File
+* Directory
+* JFileManager
+* JShell
+
+

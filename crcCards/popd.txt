@@ -1,0 +1,13 @@
+Class Name: Popd
+Parent Class: Command (Interface)
+
+Responsibilities: 
+* Pops the top most directory from a directory stack and makes it the current directory
+
+Collaborators:
+* JShell
+* JFileManager
+
+
+
+

@@ -1,0 +1,14 @@
+Class Name: Pushd
+Parent Class: Command (Interface)
+
+Responsibilities: 
+* Adds the current directory to a directory stack 
+* Sets current directory to the path provided by user
+
+Collaborators:
+* JFileManager
+* JShell
+
+
+
+

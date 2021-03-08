@@ -1,0 +1,11 @@
+Class Name: Pwd
+Parent Class: Command (Interface)
+
+Responsibilities:
+* Prints the full path of the current directory.
+* Output can be redirected to OUTFILE instead of printing on the JShell screen.
+
+Collaborators:
+* Directory
+* JFileManager
+* JShell

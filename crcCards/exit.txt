@@ -1,0 +1,9 @@
+Class Name: Exit
+Parent Class: Command (Interface)
+
+
+Responsibilities:
+* Quits the current shell
+
+Collaborators:
+* JShell

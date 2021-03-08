@@ -1,0 +1,13 @@
+Class Name: SaveJShell
+Parent Class: Command (Interface)
+
+Responsibilities: 
+* Saves the session data of the JShell to OUTFILE in the real file system.
+
+Collaborators:
+* File
+* Directory
+* JFileManager
+* JShell
+
+

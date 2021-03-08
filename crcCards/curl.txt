@@ -1,0 +1,13 @@
+Class Name: Curl
+Parent Class: Command (Interface)
+
+Responsibilities: 
+* Retrieves a file at given URL and add it to the current working directory.
+
+Collaborators:
+* File
+* Directory
+* JFileManager
+* JShell
+
+

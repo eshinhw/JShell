@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- Tested Mkdir and fixed buigs
+	- Tesed PathtoCurrent Fixed bugs
+	- Tested LS and fixed bugs 
+    
+What do I plan to work in the next three days?
+	- Do more extensive tests on all func
+
+
+Am I blocked on anything?
+    -none   

@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Worked on javadocs for our classes
+    - Worked on some commenting for our code
+    
+What do I plan to work in the next three days?
+    - Finishing the javadocs for all classes 
+    - Adding more comments to our classes
+    - Testing the commands for edge cases
+
+Am I blocked on anything?
+    - Not currently blocked on anything at the moment
+   

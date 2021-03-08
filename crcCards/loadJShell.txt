@@ -1,0 +1,13 @@
+Class Name: LoadJShell
+Parent Class: Command (Interface)
+
+Responsibilities: 
+* Loads the previous JShell session data from OUTFILE in the real file system.
+
+Collaborators:
+* File
+* Directory
+* JFileManager
+* JShell
+
+

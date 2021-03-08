@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Finished popd command
+    - Started pushd command
+    - Worked on some classes within the FileManager
+    
+What do I plan to work in the next three days?
+    - Working on the Javadocs for our code
+    - Adding comments to our classes
+    - Testing the commands for edge cases
+
+Am I blocked on anything?
+    - Working through our nonValidArgumentException as there are errors causing problems
+   

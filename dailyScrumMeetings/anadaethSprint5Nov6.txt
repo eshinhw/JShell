@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Finished on javadocs for all classes
+    - Worked on some commenting for our code
+    
+What do I plan to work in the next three days?
+    - Testing the commands for edge cases
+    - Trying to break the code
+    - Error handling implementation 
+
+Am I blocked on anything?
+    - Thinking outside of the box for possible cases we might miss

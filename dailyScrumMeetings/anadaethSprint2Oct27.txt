@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - Finalized our structure for the JShell with the group
+    - Attempted to work on the history command
+    - Getting familiar with inheritance and polymorphism
+    
+What do I plan to work in the next three days?
+    - Begin coding the Pushd command
+    - Begin coding the Popd command
+
+Am I blocked on anything?
+    - I was blocked on figuring out the history command which I said I would
+    previously work on. So instead I passed it on to my teammate and it works
+    better since it fits in with other work they are doing 
+   

@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Lots of testing, trying to break the shell
+    - Fixed some parts of the code that were breaking with different cases
+    
+What do I plan to work in the next three days?
+    - Testing even more
+    - Trying to break the code
+   	- Finishing up any last things what we may have missed
+
+Am I blocked on anything?
+    - Trying to think of possible scenario's that may break our shell

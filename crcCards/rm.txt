@@ -1,0 +1,13 @@
+Class Name: Rm
+Parent Class: Command (Interface)
+
+Responsibilities: 
+* Removes the DIR and the children of DIR recursively from the file system.
+
+Collaborators:
+* File
+* Directory
+* JFileManager
+* JShell
+
+

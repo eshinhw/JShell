@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Parts of the MockJshell
+    - JUnit command tests for multiple commands
+  
+
+What do I plan to work in the next three days?
+    - Finishing the MockShell
+    - Finishing the JUnit tests for the rest of the commands
+	
+Am I blocked on anything?
+    - Hard coding the parts of the mockshell
+    - Trouble shooting errors that are occuring in the JUnit testing 

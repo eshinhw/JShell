@@ -1,0 +1,14 @@
+Class Name: Search
+Parent Class: Command (Interface)
+
+Responsibilities: 
+* Searchs a file or a directory from given path (path can be either absolute or relative). 
+* Output can be redirected to OUTFILE instead of printing on the JShell screen.
+
+Collaborators:
+* File
+* Directory
+* JFileManager
+* JShell
+
+

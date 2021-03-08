@@ -1,0 +1,11 @@
+Class Name: History
+Parent Class: Command (Interface)
+
+Responsibilities:
+* Prints out recent commands entered by a user, including invalid command inputs. 
+* Provides the functionality for an user to specify the number of recent commands printed on the shell.
+* Output can be redirected to OUTFILE instead of printing on the JShell screen.
+
+Collaborators:
+* JShell
+

@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Worked on parts of the MockJshell
+    - Started parts of JUnit command tests
+  
+
+What do I plan to work in the next three days?
+    - Finishing the MockShell
+    - Finishing the JUnit tests for each command
+	
+Am I blocked on anything?
+    - Hard coding the parts of the mockshell
