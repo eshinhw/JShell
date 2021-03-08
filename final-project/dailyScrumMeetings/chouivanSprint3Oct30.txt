@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Fished helper function called pathtocurrent
+    - Finished roughly mkdir
+    
+What do I plan to work in the next three days?
+	- finish debugging mkdir
+	- finish ls
+
+
+Am I blocked on anything?
+    - a helper function that can find out if path is relative or full
+   

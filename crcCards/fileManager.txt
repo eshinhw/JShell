@@ -1,7 +1,0 @@
-Class Name: FileManager (Interface)
-
-Responsibilities:
-* Provides the method signatures for implementing FileManager which handles necessary operations for commands to execute their tasks. 
-
-Collaborators:
-* None

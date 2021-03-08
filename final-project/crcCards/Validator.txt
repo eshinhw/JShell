@@ -1,0 +1,10 @@
+Class Name: Validator
+
+Responsibilities:
+
+* Includes all helper functions to check user inputs for validity
+* The helper functions inside Validator class returns True if an user input is valid and False if an user input is not valid.
+
+Collaborators:
+
+* None

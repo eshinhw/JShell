@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+	Get a more detailed idea of CRC
+
+What do I plan to work in the next three days?
+	Finish Review CRCs and finalize them
+	Review how to implement the Command class
+	Write Exit Command
+
+Am I blocked on anything?
+    Not blocked

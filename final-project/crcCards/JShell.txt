@@ -1,0 +1,19 @@
+Class Name: JShell (Main)
+
+Responsibilities:
+* Interact with an user to get command inputs
+* Displays meaningful error messages whenever the user provides invalid inputs or commands encounter errors
+
+Collaborators:
+* All Command Classes
+	- exit
+	- cd
+	- mkdir
+	- ls
+	- pwd
+	- echo
+	- cat
+	- history
+	- popd
+	- pushd
+	- man
