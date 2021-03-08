@@ -1,0 +1,13 @@
+User Stories								            				Time estimate
+1) As a user, I can remove a directory from the file system including all sub-directories of it.		5 hour
+2) As a user, I can create multiple directories at once.							2 hour
+3) As a user, I can list the contents of one or more directories recursively.					5 hour
+4) As a user, I can move a file or a directory from one path to another path.					4 hour
+5) As a user, I can copy a file or a directory to new path.							3 hour
+6) As a user, I can display the contents of one or more files on the console.					3 hour
+7) As a user, I can retrieve a file from URL and add it to the current working directory.			6 hour
+8) As a user, I can save the state of current JShell session into a file.					6 hour
+9) As a user, I can load and reinitialize the state of JShell session which I previously run.			6 hour
+10) As a user, I can search files and directories in the file system.						5 hour				
+11) As a user, I can display the entire file system as a tree structure.   					4 hour	
+12) As a user, I can redirect the output of command to a file instead of console.				3 hour				

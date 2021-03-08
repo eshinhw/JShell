@@ -1,0 +1,36 @@
+Sprint 1 Backlog.  
+October 21 to October 27
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I can input commands						                
+b) As a user, I can view the history of commands I have used		            	
+c) As a user, I can exit a program whenever I wish to
+d) As a user, I can view the documentation for a command			       
+e) As a user, I can input commands with spaces between arguments		       
+
+Specific tasks to be accomplished:
+a-1. (JShell) Write code the shell
+a-2. (JShell) Have the shell prompt the user for input 
+a-3  (JShell) Write code to detect if user is writing a command 
+b-1. (JShell) Store the previously entered commands
+b-2. (JShell) Output of the commands as a list 
+c-1. (JShell) Write code for the exit command
+d-1. (man) Write code for man class
+e-1. (JShell) Detect if there are extra spaces
+e-2. (JShell) Make sure that the user commands are taken if there are extra spaces
+h-1. review crc cards
+
+These tasks are assigned as follows:
+
+User: Junheng Wang
+Tasks: a-1, a-2, a-3
+
+User: Hyun Woo(Eddie) Shin
+Tasks: b-1, b-2
+
+User: Ivanhoe Chong
+Tasks: h-1, c-1, d-1
+
+User: Ethan Ananda
+Tasks: h-1, e-4, e-5

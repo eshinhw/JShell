@@ -1,0 +1,34 @@
+Sprint 3 Backlog.  
+November 4 to November 10
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I can view the contents of a given directory (ls with full path) 	                
+b) As a user, I can input commands flawlessly (error handling)		            	
+c) As a user, I can change directories (cd)			       
+d) As a user, I can view the previous directory from the stack (popd)
+e) As a user, I can save my current working directory to the stack (pushd)
+f) As a user, I can view the path of the current directory (full path vs relative path)  
+
+Specific tasks to be accomplished:
+a-1. (ls) Work on ls command to handle full path input
+b-1. (All Command Classes) Work on the code to catch errors for invalid argument, path, or command input
+c-1. (cd) Work on cd command to cover edge cases
+d-1. (popd) Test functionalities of popd making sure that it's working all possible scenarios
+e-1. (pushd) Finalize functionalities of pushd so that it works without any errors
+f-1. (fileManager) Finalize helper methods related to full path and relative path in fileManager class
+g-1. (All Classes) Javadocs and comments
+
+These tasks are assigned as follows:
+
+User: Junheng Wang
+Tasks: b-1, c-1
+
+User: Hyun Woo(Eddie) Shin
+Tasks: b-1, e-1
+
+User: Ivanhoe Chong
+Tasks: a-1, b-1 
+
+User: Ethan Anada
+Tasks: b-1, d-1, g-1

@@ -1,0 +1,43 @@
+A2B Sprint 2 Backlog.  
+November 23 to November 30
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I can remove a directory from the file system including all sub-directories of it.		
+
+b) As a user, I can list the contents of one or more directories recursively.					
+c) As a user, I can move a file or a directory from one path to another path.				
+d) As a user, I can copy a file or a directory to new path.							
+e) As a user, I can search files and directories in the file system.									
+f) As a user, I can display the entire file system as a tree structure.   		      
+
+
+Specific tasks to be accomplished:
+
+a-1. (rm) Make sure rm works with recursive function
+
+b-1. (ls) Make sure ls works with recursive function
+
+c-1. (mv) Make sure mv works properly
+
+d-1. (cp) Create a cp class and implement adjusted solution code to copy an item to new path.
+
+e-1. (search) Write code to allow client to fully search for a file/directory
+
+f-1. (tree) Allow user to display file system as a tree.
+
+
+
+These tasks are assigned as follows:
+
+User: Junheng Wang
+Tasks: c-1, d-1
+
+User: Hyun Woo (Eddie) Shin
+Tasks: f-1
+
+User: Ivanhoe Chou
+Tasks: b-1, e-1
+
+User: Ethan Ananda
+Tasks: a-1

@@ -1,0 +1,40 @@
+A2B Sprint 1 Backlog.  
+November 16 to November 22
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I can remove a directory from the file system including all sub-directories of it.
+b) As a user, I can create multiple directories at once.
+c) As a user, I can list the contents of one or more directories recursively.
+d) As a user, I can display the contents of one or more files on the console.
+e) As a user, I can move a file or a directory from one path to another path.
+f) As a user, I can copy a file or a directory to new path.		       
+
+Specific tasks to be accomplished:
+
+a-1. (rm) Create a rm class and start writing code
+a-2. (rm) Test the code to make sure it works with all possible inputs
+
+b-1. (mkdir) Write extra code to account for creating multiple directory paths
+c-1. (ls) Implements the functionality of listing all sub-directories recursively
+
+d-1. (cat) Write extra code to account for diplaying contents of multiple files
+d-2. (cat) Test cat class to make sure it works with all possible inputs
+
+e-1. (mv) Create a mv class and come up with solution code to move an item from one path to another.
+f-1. (cp) Create a cp class and implement adjusted solution code to copy an item to new path.
+g-1. (man) update new commands for man command  
+
+These tasks are assigned as follows:
+
+User: Junheng Wang
+Tasks: d-1, d-2
+
+User: Hyun Woo (Eddie) Shin
+Tasks: e-1, f-1, g-1
+
+User: Ivanhoe Chong
+Tasks: b-1, c-1
+
+User: Ethan Ananda
+Tasks: a-1, a-2

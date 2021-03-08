@@ -1,0 +1,38 @@
+Sprint 2 Backlog.  
+October 28 to November 3
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I can view the contents of a given directory 	                
+b) As a user, I can input commands		            	
+c) As a user, I can view the history of commands I have used
+d) As a user, I can change directories			       
+e) As a user, I can view the previous directory from the stack
+f) As a user, I can save my current working directory to the stack 
+g) As a user, I can view the documentation for a command    
+
+Specific tasks to be accomplished:
+a-1. (Command) Write the code for the ls command
+b-1. (JShell) Write code the shell
+b-2. (JShell) Have the shell prompt the user for input
+c-1. (Command) Write the history command
+d-1. (Command) Write the code for the cd command
+e-1. (Command) Write the code for the pushd command
+f-1. (Command) Work the code for the popd command
+h-1. Finalize design of CRC Cards
+g-1. (Command) Write the MAN command using hashmap
+
+
+These tasks are assigned as follows:
+
+User: Junheng Wang
+Tasks: a-1, d-1 
+
+User: Hyun Woo(Eddie) Shin
+Tasks: b-1, b-2, c-1
+
+User: Ivanhoe Chong
+Tasks: h-1, g-1
+
+User: Ethan Anada
+Tasks: e-1, f-1
