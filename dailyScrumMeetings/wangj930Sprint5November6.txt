@@ -1,0 +1,18 @@
+What did I work on in the last three days?
+    - worked on helping group members with path related commands and implement full and relative path echo
+    - make sure all commands are functional and work with full path
+    - make sure cd works with .. and .
+    - make sure to test for errors and edge cases
+
+What do I plan to work in the next three days?
+    - work on singleton design principles and make sure to only have 1 fileSystem
+    - make sure to capitalize class names
+    - make a abstract class for command exception
+    - make an interface for fileManager
+    - make sure to test for errors and edge cases
+    - work on error handling and make sure the commands use an error handling class 
+
+Am I blocked on anything?
+    - Currently, I changed some class names and package structure is changed, so I need to update that to svn, and make sure the group has it before proceeding with anything else.
+    - Need to have the error handling classes functional before we can deal with test cases
+    

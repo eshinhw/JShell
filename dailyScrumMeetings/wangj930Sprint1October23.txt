@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - worked on Sprint and Backlog 
+    - brainstormed ideas with my group for the JShell, and various commands in terms of design
+    - worked on design ideas with CRC cards
+    
+What do I plan to work in the next three days?
+    - work on JShell and other classes like file, directory
+    - start coding commands like history, ls
+
+Am I blocked on anything?
+    - Need to allow the user to input commands and do error checking, which currently is not implemented to have commands
+    - Need the Jshell to memorize previous commands

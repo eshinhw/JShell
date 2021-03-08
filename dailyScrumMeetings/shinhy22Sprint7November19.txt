@@ -1,0 +1,18 @@
+What did I work on in the last three days? 
+
+- Started working on rm
+- Learned about object serialization for saveJShell and loadJShell commands
+- updated JShell to work with new commands from a user
+
+What do I plan to work in the next three days?
+
+- Apply object serialization to fully implement saveJShell and loadJShell commands
+- Brainstorm ways to implement tree command
+
+Am I blocked on anything? 
+
+- Everything works well.
+
+
+
+

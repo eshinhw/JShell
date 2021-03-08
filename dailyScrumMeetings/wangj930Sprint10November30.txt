@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Work on search command, try to finish it.
+    - continue to make redirection on new commands like tree, ls-r, search
+    - help on mv, cp, rm commands
+
+What do I plan to work in the next three days?
+    - Work on finalizing junit test for search
+    - Help group mates with anything they need
+    - Work on making sure all test cases are run correctly
+	
+Am I blocked on anything?
+    - Right now, there is a test case not working for search. I asked group mates about it, and they are not able to figure out the issue. I will need look into this more, since search works on the terminal.

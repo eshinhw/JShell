@@ -1,0 +1,16 @@
+What did I work on in the last three days? 
+
+- Finished working on saveJShell and loadJShell commands to make sure they work correctly
+
+What do I plan to work in the next three days?
+
+- Make sure saveJShell and loadJShell work with different filepath inputs.
+- Finish brainstorming ways to implement tree command and start coding some ideas.
+
+Am I blocked on anything? 
+
+- Everything works well.
+
+
+
+

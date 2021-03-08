@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - Worked on cat command
+    - Worked on helping group members
+    - Worked on curl command
+    - Worked on understanding new commands 
+
+What do I plan to work in the next three days?
+    - Work on ls -R and making a recursive command that can be used by other recursive functions
+    - Work on redirection
+    - Help team mates on cp, mv, and tree commands 
+    - Work on search command
+	
+Am I blocked on anything?
+    - Not right now    

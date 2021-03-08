@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - work on generics, and implementing it in validator class
+    - helped teammates that need help (with mock file manager, and testing)
+    - help teammates in recursive function related commands (ls)
+    - make sure that redirection works with new commands, fix issues
+    - discussed ways to make design better and implement commands more effectively
+
+What do I plan to work in the next three days?
+    - Work on search command, try to finish it.
+    - continue to make redirection on new commands like tree, ls-r, search
+    - help on mv, cp, rm commands
+	
+Am I blocked on anything?
+    - right now, I need a recursive function that will work with search, which another member worked on. I need to make this work with any given path and find a single file or directory name.

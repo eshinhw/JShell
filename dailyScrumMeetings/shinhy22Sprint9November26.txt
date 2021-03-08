@@ -1,0 +1,19 @@
+What did I work on in the last three days? 
+
+- Worked on tree command to traverse the entire file system and ls command to implement additional recursive feature.
+
+What do I plan to work in the next three days?
+
+- Make sure the commands that I have worked on so far work without errors by running some testing on them.
+- Try to apply generics to our project.
+- Help teammates implement other commands like mv and cp
+- Get ready to run some extensive testing with JUnit
+- Take care of little details of the project before the due date
+
+Am I blocked on anything? 
+
+- Everything works well.
+
+
+
+

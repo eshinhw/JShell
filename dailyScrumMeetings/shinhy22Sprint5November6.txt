@@ -1,0 +1,18 @@
+What did I work on in the last three days? 
+
+- worked on pwd and history commands to handle edge cases which had caused errors before.
+- implemented codes related to error handling so that users gets informed about errors they may encounter while using the program.
+- tried to come up with possible edge cases for program testing 
+
+What do I plan to work in the next three days?
+
+- I will work on identifying different kinds of errors and figuring out how to handle them and inform users.
+- I will try to improve overall structure of the program applying important programming concepts learned from the course.
+- I will come up with as many edge cases as possible to identify possible edge cases we might have missed.
+
+Am I blocked on anything? 
+
+- Everything is going pretty well so I am not blocked by anything.
+
+
+

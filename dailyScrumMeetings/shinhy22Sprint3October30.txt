@@ -1,0 +1,16 @@
+What did I work on in the last three days? 
+
+- worked on finalizing history and man commands so that it works well with JShell and display the correct outputs.
+- worked on creating a fileManager class which contains all necessary methods to inspect command arguments and run command classes correctly. 
+
+What do I plan to work in the next three days?
+
+- works on retrieving full or relative paths of an file and directory object.
+- starts adding comments and javadocs for command classes that are completed.
+
+Am I blocked on anything? 
+
+- we still need to figure out directory structure and work on several commands that require file and directory paths.
+
+
+

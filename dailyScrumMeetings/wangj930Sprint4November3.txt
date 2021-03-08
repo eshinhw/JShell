@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - worked on echo, cat and several other commands and 
+ fileSystem, and directory and other classes
+    - confirmed solutions in terms of class structure and fixed bug issues
+    - tried various ways to implement error handling 
+
+What do I plan to work in the next three days?
+    - work on helping group members with path related commands
+    - make sure all commands are functional
+    - make to test for errors and edge cases, and check rubric for things to test
+
+Am I blocked on anything?
+    - we need to have commands functional before testing errors
+    

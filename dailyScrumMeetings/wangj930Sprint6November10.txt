@@ -1,0 +1,15 @@
+What did I work on in the last three days?
+    - work on singleton design principles and make sure to only have 1 fileSystem
+    - make sure to capitalize class names
+    - make a abstract class for command exception
+    - make an interface for fileManager
+    - make sure to test for errors and edge cases
+    - work on error handling and make sure the commands use an error handling class 
+
+What do I plan to work in the next three days?
+    - Work on more testing and fix issues with ls and echo commands and see if the full path works with files, since right now, there are some issues with full path related functions. Try to fix them.
+    - Help group members with their functions, by fixing and testing different use cases 
+	
+Am I blocked on anything?
+    - Currently, I need one of the functions in FileManager to work in order to perform full path related functions with files in commands like Ls and Echo. There could be some functionality that can not yet be implemented without fixing the issue of the method FileManager. I will need to talk with the group member who created this function to figure this out.
+    

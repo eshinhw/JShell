@@ -1,0 +1,17 @@
+What did I work on in the last three days? 
+
+- Worked on JUnit testings for several commands.
+- Helped my teammate with verifying input and output cases for Junit testing.
+- Finalized the functionalities of saveJShell, loadJShell and Rm for all possible input cases. 
+
+What do I plan to work in the next three days?
+
+- Today is the last day of working on A2B, so we are done now.
+
+Am I blocked on anything? 
+
+- Everything worked well.
+
+
+
+

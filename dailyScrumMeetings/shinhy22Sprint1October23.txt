@@ -1,0 +1,15 @@
+What did I work on in the last three days? 
+
+- worked with group members to finalize crc cards and program design
+- discussed how to implement the commands in code with teammates
+- figured out user stories and specific tasks related to them in JShell
+
+What do I plan to work in the next three days?
+
+- continue working on how to implement command class which is the interface calss for the individual commands we are supposed to implement
+- start working on functionalities in JShell
+
+Am I blocked on anything? 
+
+- needs to figure out what kinds of data structure is best for implementing history command
+

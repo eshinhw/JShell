@@ -1,0 +1,15 @@
+What did I work on in the last three days?
+    - worked on echo, cat and several other commands and 
+ fileSystem, and directory and other classes
+    - confirmed solutions in terms of class structure and fixed bug issues
+    - tried various ways to implement error handling 
+
+What do I plan to work in the next three days?
+    - work on path related commands and enable the program to distinguish relative and absolute path
+    - work on error handling, and commenting new and previously written code.
+    - make sure certain commands works with other group members and on the shell
+
+
+
+Am I blocked on anything?
+    - There need to be a path related method that can get the file at the end of that path in order to complete commands like mkdir, ls etc.

@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - worked on some redirection functions
+    - work by helping group members for functions they have trouble with
+    - write some code for ls, and generics in a function that will recurse through the directory.
+  
+
+What do I plan to work in the next three days?
+    - Work on unit testing and mock file system
+    - Work on the recursive function
+    - Work on the search command
+	
+Am I blocked on anything?
+    - Right now, I need to know what another group member did for a particular function in unit testing mock fs to be able to make progress.
+    

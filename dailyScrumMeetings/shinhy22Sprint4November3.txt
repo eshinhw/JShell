@@ -1,0 +1,18 @@
+What did I work on in the last three days? 
+
+- worked with teammates to figure out ways to handle absolute path and relative path provided from a user.
+- tested the program with different input scenarios to find out any bugs or things to fix before the demo.
+- 
+
+What do I plan to work in the next three days?
+
+- start implmenting codes related to error handling so that whenever the program encounters an error, it prints the message to a user instead of terminating the program.
+- finish up pushd command before the demo.
+- continue testing the program with different input scenarios to fix any bugs or unexpected outputs.
+
+Am I blocked on anything? 
+
+- we are not blocked on anything at this stage.
+
+
+

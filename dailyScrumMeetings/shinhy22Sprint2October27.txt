@@ -1,0 +1,17 @@
+What did I work on in the last three days? 
+
+- worked on the basic functionalities of JShell like getting input commands from a user, parsing them and check if they are valid.
+- constructed a commandHashMap we learned from lab6 so that an instance of each individual command class can be created using java reflection. 
+
+What do I plan to work in the next three days?
+
+- continue working on JShell so that it can collaborate with individual command class files.
+- starts implemeting bodies of individual command classes.
+
+Am I blocked on anything? 
+
+- we should finish working on command interface file so that each individual command class can correctly implement it.
+- we still need to figure out classes related to file system like file, directory and path.
+
+
+

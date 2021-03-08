@@ -1,0 +1,18 @@
+What did I work on in the last three days? 
+
+- Created helper methods related to absolute and relative path of a directory and a file
+- Worked on ls command to print out file name when file path is provided as an argument of ls command
+- Continuously tested the program to find any bugs
+
+What do I plan to work in the next three days?
+
+- Today is the end of Assignment2A, and we are pretty much done with all command functionalities of the shell
+- Keep working on testing the program for possible errors
+
+Am I blocked on anything? 
+
+- Everything works well.
+- Try to look for possible edge cases which may crash the program.
+
+
+

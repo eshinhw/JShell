@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - worked on command, pwd, part of history and some other classes
+    - worked on exceptions and error handling
+    - talked with group to finalize design ideas
+
+What do I plan to work in the next three days?
+    - finish error handling
+    - finish directory, file, ls and cd classes and commit 
+    - try to get a functioning product
+
+
+Am I blocked on anything?
+    - need to communicate on division of tasks of important classes like mkdir, directory stack, etc. and finish those, before a product can be created.
