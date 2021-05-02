@@ -1,2 +1,2 @@
-# MOCK FILE SYSTEM - CSCB07 FINAL PROJECT
+# Mock File System in Java - CSCB07 Software Design Final Project
 
