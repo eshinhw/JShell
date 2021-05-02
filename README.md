@@ -6,34 +6,44 @@
 
 ## List of Available Commands
 
-#### rm DIR
+#### 1. rm DIR
 
-#### exit
+removes the DIR from the file system.
 
-#### mkdir DIR ...
+#### 2. exit
 
-#### cd DIR
+Quits the program.
 
-#### ls [-R] [PATH ...]
+#### 3. mkdir DIR ...
 
-#### pwd
+#### 4. cd DIR
 
-#### mv OLDPATH NEWPATH
+#### 5. ls [-R] [PATH ...]
 
-#### cp OLDPATH NEWPATH
+#### 6. pwd
 
-#### cat FILE ...
+#### 7. mv OLDPATH NEWPATH
 
-#### curl URL
+#### 8. cp OLDPATH NEWPATH
 
-#### echo String
+#### 9.cat FILE ...
 
-#### man CMD
+#### 10. curl URL
 
-#### pushd DIR
+#### 11. echo String
 
-#### popd
+#### 12. man CMD
 
-#### history [number]
+#### 13. pushd DIR
 
-####
+#### 14. popd
+
+#### 15. history [number]
+
+#### 16. saveJShell FILENAME
+
+#### 17. loadJShell FILENAME
+
+#### 18. search
+
+#### 19. tree
