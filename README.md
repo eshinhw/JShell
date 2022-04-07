@@ -1,4 +1,4 @@
-# Mock Linux Shell
+# JShell - Mock Linux Shell
 
 <p align="center">
   <img width="800" height="400" src="https://user-images.githubusercontent.com/41933169/116823837-cf646d80-ab54-11eb-89d9-392581c0c79d.png">
