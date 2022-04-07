@@ -1,6 +1,6 @@
 # JShell
 
-JShell is a mock version of Linux Shell implementing basic command functionalities for applying Object Oriented Programming concepts in Java.
+JShell is a mock version of Linux Shell implementing basic command functionalities for applying OOP concepts in Java.
 
 <p align="center">
   <img width="800" height="400" src="https://user-images.githubusercontent.com/41933169/116823837-cf646d80-ab54-11eb-89d9-392581c0c79d.png">
